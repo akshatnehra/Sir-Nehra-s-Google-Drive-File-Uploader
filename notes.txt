@@ -1,0 +1,2 @@
+# Create .exe
+pkg main.js --targets node12-win-x64
